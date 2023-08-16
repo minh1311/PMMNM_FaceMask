@@ -34,7 +34,9 @@ We welcome contributions to the project from the community. If you wish to provi
 1. Fork the project and create a new branch for your work.
 2. Implement your changes and add new commits.
 3. Create a pull request to the main branch of the project.
-
+## Data training
+https://drive.google.com/drive/folders/1_dhrxYOzW356qQMzhGCuBvQiPCdKxp2p?usp=drive_link
+https://drive.google.com/drive/folders/1Z4Vend4D44wRYUtiSSLnu_LMeLY1evHI?usp=drive_link
 
 ## Authors
 This project was implemented by Nguyen Hoang Minh, Nguyen Thi Thu Thuy, Hoang Thi Sao Mai.
