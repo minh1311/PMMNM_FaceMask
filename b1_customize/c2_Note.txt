@@ -1,0 +1,4 @@
+python detect.py --weights D:\DeepLearning\yolov5\runs\train\exp13\weights\best.pt --source 0 
+
+D:\DeepLearning\a3_project\Face_Mask_Classifier\data\Test\WithMask\Augmented_12_5160421.png
+D:\DeepLearning\yolov5\data\cases\1.jpg
