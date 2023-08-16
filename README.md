@@ -35,10 +35,7 @@ We welcome contributions to the project from the community. If you wish to provi
 2. Implement your changes and add new commits.
 3. Create a pull request to the main branch of the project.
 
-<div align="center">
-    <img width="100%" src="[https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png](https://github.com/minh1311/PMMNM_FaceMask/blob/master/1.jpg)"></a>
-</div>
-<img width="100%" src="[https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/yolo-comparison-plots.png](https://github.com/minh1311/PMMNM_FaceMask/blob/master/1.jpg)"></a>
+
 ## Authors
 This project was implemented by Nguyen Hoang Minh, Nguyen Thi Thu Thuy, Hoang Thi Sao Mai.
 
