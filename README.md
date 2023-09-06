@@ -39,7 +39,7 @@ https://drive.google.com/drive/folders/1_dhrxYOzW356qQMzhGCuBvQiPCdKxp2p?usp=dri
 https://drive.google.com/drive/folders/1Z4Vend4D44wRYUtiSSLnu_LMeLY1evHI?usp=drive_link
 
 ## Authors
-This project was implemented by Nguyen Hoang Minh, Nguyen Thi Thu Thuy, Hoang Thi Sao Mai.
+This project was implemented by Nguyen Hoang Minh.
 
 ## Contact
 If you have any questions, suggestions, or proposals, please contact us via email at: minhnguyeny2002@gmail.com.
